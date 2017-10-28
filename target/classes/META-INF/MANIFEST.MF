@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: hezbe
+Class-Path: lib/aws-lambda-java-core-1.1.0.jar lib/junit-3.8.1.jar
+Build-Jdk: 1.8.0_141
+Created-By: Maven Integration for Eclipse
+Main-Class: com.basic.example.helloworld
+
